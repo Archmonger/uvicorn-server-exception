@@ -1,0 +1,3 @@
+idom[sanic]==0.43
+uvicorn[standard]
+mkdocs
